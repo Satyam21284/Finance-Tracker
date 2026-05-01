@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+outputs/
+*.log
+utils/sql/db_and_user_creation.sql

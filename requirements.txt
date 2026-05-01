@@ -1,0 +1,8 @@
+mysql-connector-python
+bcrypt
+pandas
+seaborn
+matplotlib
+tabulate
+pytest
+python-dotenv
